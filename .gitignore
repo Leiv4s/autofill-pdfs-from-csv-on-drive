@@ -1,0 +1,15 @@
+# Ignorar todos os arquivos dentro da pasta csv
+/src/csv/*
+
+# Ignorar todos os arquivos dentro da pasta pdfs
+/src/pdfs/*
+
+# Permitir que as pastas csv e pdfs sejam rastreadas
+!/src/csv/
+!/src/pdfs/
+
+# Ignorar o diretório node_modules
+node_modules
+
+# Ignorar o arquivo .env
+.env

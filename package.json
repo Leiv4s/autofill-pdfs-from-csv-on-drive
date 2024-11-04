@@ -1,0 +1,1 @@
+{"name":"autofillfromcsv","type":"module","dependencies":{"dotenv":"^16.4.5","node-fetch":"^3.3.2","pdf-lib":"^1.17.1"},"bin":{"autofill-pdf-from-csv":"src/app.js"},"scripts":{"start":"node ./src/app.js"}}
